@@ -1,0 +1,40 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab7\Lab7\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab7\Lab7\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab7\Lab7\Debug\Lab7.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab7.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab7.map</FILE>
+  <FILE>Lab7.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab7\Lab7\main.asm</FILE><LINE>78</LINE></INIT>
+  <ISI><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab7\Lab7\main.asm</FILE><LINE>155</LINE></ISI>
+  <ISD><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab7\Lab7\main.asm</FILE><LINE>174</LINE></ISD>
+  <ISMAX><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab7\Lab7\main.asm</FILE><LINE>192</LINE></ISMAX>
+  <ISMIN><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab7\Lab7\main.asm</FILE><LINE>209</LINE></ISMIN>
+  <TIM2_COMP><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab7\Lab7\main.asm</FILE><LINE>226</LINE></TIM2_COMP>
+  <TIM0_COMP><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab7\Lab7\main.asm</FILE><LINE>233</LINE></TIM0_COMP>
+  <MAIN><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab7\Lab7\main.asm</FILE><LINE>136</LINE></MAIN>
+  <NEXT><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab7\Lab7\main.asm</FILE><LINE>142</LINE></NEXT>
+  <SpeedSet><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab7\Lab7\main.asm</FILE><LINE>240</LINE></SpeedSet>
+  <skipISI><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab7\Lab7\main.asm</FILE><LINE>166</LINE></skipISI>
+  <skipISD><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab7\Lab7\main.asm</FILE><LINE>184</LINE></skipISD>
+  <SIGOFF><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab7\Lab7\main.asm</FILE><LINE>266</LINE></SIGOFF>
+ </LABELS>
+</ASSEMBLER_INFO>

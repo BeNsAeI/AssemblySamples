@@ -1,0 +1,45 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.57</VERSION>
+ <DEVICE>"ATmega128"</DEVICE>
+ <WORKING_DIR>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab8-P1-Transmitter\Lab8-P1-Transmitter\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab8-P1-Transmitter\Lab8-P1-Transmitter\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.90\avrasm\inc\m128def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab8-P1-Transmitter\Lab8-P1-Transmitter\Debug\Lab8-P1-Transmitter.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab8-P1-Transmitter.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab8-P1-Transmitter.map</FILE>
+  <FILE>Lab8-P1-Transmitter.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab8-P1-Transmitter\Lab8-P1-Transmitter\main.asm</FILE><LINE>59</LINE></INIT>
+  <MAIN><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab8-P1-Transmitter\Lab8-P1-Transmitter\main.asm</FILE><LINE>113</LINE></MAIN>
+  <CFWD><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab8-P1-Transmitter\Lab8-P1-Transmitter\main.asm</FILE><LINE>143</LINE></CFWD>
+  <CBWD><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab8-P1-Transmitter\Lab8-P1-Transmitter\main.asm</FILE><LINE>146</LINE></CBWD>
+  <CRWD><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab8-P1-Transmitter\Lab8-P1-Transmitter\main.asm</FILE><LINE>149</LINE></CRWD>
+  <CLWD><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab8-P1-Transmitter\Lab8-P1-Transmitter\main.asm</FILE><LINE>152</LINE></CLWD>
+  <CHALTI><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab8-P1-Transmitter\Lab8-P1-Transmitter\main.asm</FILE><LINE>155</LINE></CHALTI>
+  <CFUTURE><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab8-P1-Transmitter\Lab8-P1-Transmitter\main.asm</FILE><LINE>158</LINE></CFUTURE>
+  <CONTINUE><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab8-P1-Transmitter\Lab8-P1-Transmitter\main.asm</FILE><LINE>161</LINE></CONTINUE>
+  <FWD><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab8-P1-Transmitter\Lab8-P1-Transmitter\main.asm</FILE><LINE>185</LINE></FWD>
+  <BWD><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab8-P1-Transmitter\Lab8-P1-Transmitter\main.asm</FILE><LINE>198</LINE></BWD>
+  <RWD><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab8-P1-Transmitter\Lab8-P1-Transmitter\main.asm</FILE><LINE>211</LINE></RWD>
+  <LWD><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab8-P1-Transmitter\Lab8-P1-Transmitter\main.asm</FILE><LINE>224</LINE></LWD>
+  <HALTI><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab8-P1-Transmitter\Lab8-P1-Transmitter\main.asm</FILE><LINE>237</LINE></HALTI>
+  <FUTURE><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab8-P1-Transmitter\Lab8-P1-Transmitter\main.asm</FILE><LINE>250</LINE></FUTURE>
+  <NEXT><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab8-P1-Transmitter\Lab8-P1-Transmitter\main.asm</FILE><LINE>171</LINE></NEXT>
+  <USART_Transmit><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab8-P1-Transmitter\Lab8-P1-Transmitter\main.asm</FILE><LINE>263</LINE></USART_Transmit>
+  <USART_Transmit_Step><FILE>C:\Users\Behnam\Documents\Atmel Studio\7.0\Lab8-P1-Transmitter\Lab8-P1-Transmitter\main.asm</FILE><LINE>269</LINE></USART_Transmit_Step>
+ </LABELS>
+</ASSEMBLER_INFO>
